@@ -1,1 +1,1 @@
-# rx-searchbar
+# rxJS typeahead
