@@ -1,1 +1,1 @@
-# rxJS typeahead
+# RxJS typeahead
