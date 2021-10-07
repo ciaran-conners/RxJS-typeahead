@@ -1,0 +1,23 @@
+body {
+  width: 800px;
+  margin: auto;
+}
+
+p {
+  margin: unset;
+}
+
+p:hover {
+  background-color: silver;
+}
+
+#search {
+  width: 100%;
+}
+
+#results {
+  width: 100%;
+  max-height: 200px;
+  overflow: auto;
+  /* border: 1px solid black; */
+}
